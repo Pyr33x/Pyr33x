@@ -22,7 +22,6 @@
 </h1>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Golang" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" alt="Javascript" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="Typescript" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" style="border-radius:15px"/>
@@ -31,6 +30,7 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Golang" style="border-radius:15px"/>
     
 </div>
 
