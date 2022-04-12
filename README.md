@@ -26,12 +26,16 @@
     <img src="https://skillicons.dev/icons?i=js,ts,react,next,vue,nuxt,html,css,go,kotlin,swift,tailwind,markdown,prisma" />
   </a>
 </p>
+
 <h1 align="center">
     Apps
 </h1>
 
-[![Pyr33x](https://skillicons.dev/icons?i=figma,photoshop,discord,linkedin,instagram,twitter,mongodb,vscode,vim,git,gitlab,github)](https://github.com/Pyr33x)
-    
+<p align="center">
+  <a href="https://github.com/pyr33x">
+    <img src="https://skillicons.dev/icons?i=figma,photoshop,discord,linkedin,instagram,twitter,mongodb,vscode,vim,git,gitlab,github" />
+  </a>
+</p>
     
 
 
