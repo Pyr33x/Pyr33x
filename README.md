@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://github.com/pyr33x">
-    <img src="https://skillicons.dev/icons?i=figma,photoshop,discord,linkedin,instagram,twitter,mongodb,vscode,vim,git,gitlab,github" />
+    <img src="https://skillicons.dev/icons?i=figma,photoshop,discord,bots,linkedin,instagram,twitter,mongodb,vscode,vim,git,gitlab,github,cloudflare" />
   </a>
 </p>
     
