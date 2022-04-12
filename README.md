@@ -56,6 +56,3 @@
   </tr>
 </table>
 
-
-
-<img src="https://cdn.discordapp.com/attachments/844973689292193824/921150781380493323/footer.png" alt="Hero image">
