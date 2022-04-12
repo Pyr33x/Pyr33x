@@ -24,7 +24,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,vue,nuxt,html,css,go,kotlin,flutter,tailwind,markdown,prisma)](https://github.com/Pyr33x)
 
 <h1 align="center">
-    Frameworks / Apps
+    Apps
 </h1>
 
 [![My Skills](https://skillicons.dev/icons?i=figma,photoshop,discord,linkedin,instagram,twitter,mongodb,vscode,vim,git,gitlab,github,docker)](https://github.com/Pyr33x)
