@@ -21,30 +21,15 @@
     Languages
 </h1>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,vue.nuxt,html,css,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,vue,nuxt,html,css,go,kotlin,flutter,tailwind,markdown,prisma)](https://github.com/Pyr33x)
 
 <h1 align="center">
     Frameworks / Apps
 </h1>
 
-<div align="center">
-    <img src="https://img.shields.io/badge/Vue.JS-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.JS" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" alt="React" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/Docker-2498ED?style=flat&logo=docker&logoColor=white" alt="Docker" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" alt="Sass" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/Node.JS-339933?style=flat&logo=node.js&logoColor=white" alt="Node.JS" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Post Man" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash" style="border-radius:15px"/>
-    </div>
+[![My Skills](https://skillicons.dev/icons?i=figma,photoshop,discord,linkedin,instagram,twitter,mongodb,vscode,vim,git,gitlab,github,docker)](https://github.com/Pyr33x)
     
     
-    
-
-
 
 
 </br>
