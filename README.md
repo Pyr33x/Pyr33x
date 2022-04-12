@@ -21,13 +21,13 @@
     Languages
 </h1>
 
-[![Pyr33x](https://skillicons.dev/icons?i=js,ts,react,next,vue,nuxt,html,css,go,kotlin,tailwind,markdown,prisma)](https://github.com/Pyr33x)
+[![Pyr33x](https://skillicons.dev/icons?i=js,ts,react,next,vue,nuxt,html,css,go,kotlin,swift,tailwind,markdown,prisma)](https://github.com/Pyr33x)
 
 <h1 align="center">
     Apps
 </h1>
 
-[![Pyr33x](https://skillicons.dev/icons?i=figma,photoshop,discord,linkedin,instagram,twitter,mongodb,vscode,vim,git,gitlab,github,docker)](https://github.com/Pyr33x)
+[![Pyr33x](https://skillicons.dev/icons?i=figma,photoshop,discord,linkedin,instagram,twitter,mongodb,vscode,vim,git,gitlab,github)](https://github.com/Pyr33x)
     
     
 
