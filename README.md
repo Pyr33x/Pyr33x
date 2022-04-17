@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://github.com/pyr33x">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,next,vue,nuxt,html,css,sass,go,kotlin,swift,tailwind,markdown,prisma" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,next,vue,nuxt,html,css,sass,go,tailwind,markdown,prisma" />
   </a>
 </p>
 
