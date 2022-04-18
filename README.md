@@ -18,7 +18,7 @@
 
 
 <h1 align="center">
-    Languages
+    Skills
 </h1>
 
 <p align="center">
