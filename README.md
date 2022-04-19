@@ -49,6 +49,6 @@
 
 <p align="center">
   <a href="https://github.com/pyr33x">
-    <img src="https://github-readme-stats.vercel.app/api?username=pyr33x&show_icons=true&theme=vue" />
+    <img src="https://github-readme-stats.vercel.app/api?username=pyr33x&show_icons=true&theme=vue&hide=prs" />
   </a>
 </p>
