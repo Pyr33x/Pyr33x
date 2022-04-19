@@ -43,7 +43,9 @@
 </br>
 </br>
                                                                                                                                         
-# Github Stats
+<h1 align="center">
+    Github stats
+</h1>
 
 <p align="center">
   <a href="https://github.com/pyr33x">
