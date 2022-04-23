@@ -20,7 +20,6 @@
 <h1 align="center">
     Skills
 </h1>
-
 <p align="center">
   <a href="https://github.com/pyr33x">
     <img src="https://skillicons.dev/icons?i=js,ts,react,next,graphql,prisma,html,css,sass,go,tailwind,markdown" />
@@ -30,7 +29,6 @@
 <h1 align="center">
     Apps
 </h1>
-
 <p align="center">
   <a href="https://github.com/pyr33x">
     <img src="https://skillicons.dev/icons?i=figma,discord,bots,linkedin,instagram,twitter,mongodb,vscode,vim,git,gitlab,github,cloudflare" />
@@ -43,7 +41,6 @@
 <h1 align="center">
     Github stats
 </h1>
-
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
