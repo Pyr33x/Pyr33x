@@ -36,12 +36,12 @@
 </p>
                                                                                                                                     
 <h1 align="center">
-    Github stats
+    Github Stats
 </h1>
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=pyr33x&show_icons=true&theme=vue&hide=prs"/>
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=pyr33x&show_icons=true&theme=vue"/>
     </td>
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyr33x&theme=vue"/>
