@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://github.com/pyr33x">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,next,vue,nuxt,html,css,sass,go,tailwind,markdown,prisma" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,next,graphql,prisma,html,css,sass,go,tailwind,markdown" />
   </a>
 </p>
 
@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://github.com/pyr33x">
-    <img src="https://skillicons.dev/icons?i=figma,ps,discord,bots,linkedin,instagram,twitter,mongodb,vscode,vim,git,gitlab,github,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=figma,discord,bots,linkedin,instagram,twitter,mongodb,vscode,vim,git,gitlab,github,cloudflare" />
   </a>
 </p>
     
