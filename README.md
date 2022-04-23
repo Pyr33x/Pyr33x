@@ -1,9 +1,9 @@
 <div align="center">
-    <h3> <strong> Software Engineer - UI Designer - Community Manager, Marketing </strong> </h3>
+    <h1> Hello There! I'm Pyrex <img width="30px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/waving-hand_1f44b.png" /> </h1>
 </div>
 
 <div align="center">
-    <b> Working On <a href="https://github.com/HEXFAM">@HEX</a></br><em> In Love With Ducks </em> </b>
+    <p> <strong> a Full Stack Developer and Community Manager <br> Working on <a href="https://github.com/HEXFAM"> @HEX </strong>
 </div>
  
 
