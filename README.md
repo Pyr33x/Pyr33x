@@ -34,10 +34,7 @@
     <img src="https://skillicons.dev/icons?i=figma,discord,bots,linkedin,instagram,twitter,mongodb,vscode,vim,git,gitlab,github,cloudflare" />
   </a>
 </p>
-    
-
-</br>
-                                                                                                                                        
+                                                                                                                                    
 <h1 align="center">
     Github stats
 </h1>
