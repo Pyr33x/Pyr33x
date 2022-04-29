@@ -7,7 +7,7 @@
 </div>
  
 
-<div alt="Im Kind :)">
+<div alt="Discord Status">
 <h5 align="center">
 <a  a href="https://discord.com/users/827254269434396712">
   <img src="https://lanyard.cnrad.dev/api/827254269434396712" width="470" height="266" />
@@ -27,7 +27,7 @@
 </p>
 
 <h1 align="center">
-    Apps
+    Things i use
 </h1>
 <p align="center">
   <a href="https://github.com/pyr33x">
