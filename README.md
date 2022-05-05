@@ -31,7 +31,7 @@
 </h1>
 <p align="center">
   <a href="https://github.com/pyr33x">
-    <img src="https://skillicons.dev/icons?i=figma,discord,bots,linkedin,instagram,twitter,docker,mongodb,vscode,git,gitlab,github,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=figma,discord,bots,linkedin,instagram,twitter,docker,mongodb,vercel,vscode,git,gitlab,github,cloudflare" />
   </a>
 </p>
                                                                                                                                     
